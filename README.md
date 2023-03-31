@@ -4,3 +4,6 @@ This is a sample project to practice my HTML, CSS and Javascript knowledge. More
 Author
 
 Kolawole Oladejo[link] kolaquadry@gmail.com
+
+[Twitter](https://twitter.com/@kola180481)
+![Screenshot of the first one](https://quiet-trifle-4e1e27.netlify.app/)
