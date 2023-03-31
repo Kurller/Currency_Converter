@@ -7,6 +7,12 @@ Author
 [kolawole oladejo](mailto:kolaquadry@gmail.com)
 
 [Twitter](https://twitter.com/@kola180481)
+
+
 Screenshot of the first one
 ![Screenshot of the first one](images/Screenshots1.png)
 Hosted at  https://quiet-trifle-4e1e27.netlify.app/
+
+Screenshot of the second one
+![Screenshot of the second one](images/Screenshot2.png)
+Hosted at https://quiet-trifle-4e1e27.netlify.app/
