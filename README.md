@@ -14,5 +14,5 @@ Screenshot of the first one
 Hosted at  https://quiet-trifle-4e1e27.netlify.app/
 
 Screenshot of the second one
-![Screenshot of the second one](images/Screenshot2.png)
+![Screenshot of the second one](images/Screenshots2.png)
 Hosted at https://quiet-trifle-4e1e27.netlify.app/
