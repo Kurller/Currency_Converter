@@ -8,4 +8,4 @@ Author
 
 [Twitter](https://twitter.com/@kola180481)
 
-![Screenshot of the first one](Screenshots1.png)
+![Screenshot of the first one](https://quiet-trifle-4e1e27.netlify.app/)
